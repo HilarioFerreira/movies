@@ -1,0 +1,11 @@
+#Ant properties
+#Wed Aug 09 07:42:41 CEST 2023
+version.api=2205
+vendor=hybris
+group.id=de.hybris.platform
+name=movies
+description=movies
+builddate=20230809 0742
+releasedate=20220601 2009
+version=2205.15
+module.name=platform-module
